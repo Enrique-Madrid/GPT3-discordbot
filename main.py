@@ -1,8 +1,8 @@
 import openai
 import discord
 
-discord_key = "ODM2NTE0NDIwNjI0MTk1NjE1.Gkn9eG.H-ACYyrDdhIyWDOQKUs_75Id7cyhdW42nK_HXE"
-openai.api_key = "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"
+discord_key = "YOUR_DISCORD_KEY"
+openai.api_key = "YOUR_OPENAI_KEY"
 
 client = discord.Client()
 
